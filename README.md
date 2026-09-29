@@ -84,4 +84,4 @@ Then open the notebook for the lab you want to study.
 
 ## Purpose
 
-These labs were completed as part of a machine learning course to develop practical experience with fundamental machine learning algorithms and workflows, from data preprocessing and model training to evaluation and visualization.
+These labs were completed as part of a machine learning class in university to develop practical experience with fundamental machine learning algorithms and workflows, from data preprocessing and model training to evaluation and visualization.
